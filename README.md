@@ -7,8 +7,4 @@ by handling the impact of fraud and increasing credibility. Medicare and Medicai
 significant fiscal losses due to healthcare fraud. The project aims to build a basic data model, a
 comprehensive AI model, and a benchmark measurement to develop a market-ready product for fraud
 detection. Target Value will be is_fraud
-## Solution
-## Challenges
-## Steps used to solve
-## Conslusion
-## references
+
