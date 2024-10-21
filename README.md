@@ -8,3 +8,4 @@ significant fiscal losses due to healthcare fraud. The project aims to build a b
 comprehensive AI model, and a benchmark measurement to develop a market-ready product for fraud
 detection. Target Value will be is_fraud
 
+![image](https://github.com/user-attachments/assets/d8238177-9f9c-452b-b33d-f1ffa9cebc90)
